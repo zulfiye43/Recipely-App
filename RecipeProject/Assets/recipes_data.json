@@ -1,0 +1,2237 @@
+{
+    "module": {
+        "version": "1.0",
+        "total": 5,
+        "revision": "2021-11-06"
+    },
+    "recipes": [
+        {
+            "id" : 0,
+            "title": "Möhrenrisotto mit Walnüssen & Petersilienöl",
+            "shortTitle": "Möhrenrisotto mit Walnüssen & Petersilienöl",
+            "description": "Möhren, wo sie hingehören",
+            "imageName" : "rezept_20",
+            "servings": 2,
+            "ratings": {
+                "totalRating": 112,
+                "average": "4",
+                "maxRating": "5"
+            },
+            "steps": [
+                "Zwiebel schälen und würfeln", "Knoblauch schälen und reiben", "Sellerie in feine Scheiben schneiden", "Die Hälfte des Öls in einem großen Topf erhitzen.  Zwiebeln, Knoblauch und Sellerie hinzugeben und 1 Minute braten. Mit Salz würzen.", "Reis hinzugeben und 1 minute unter ständigem Rühren braten.", "Etwas Brühe hinzufügen und unter ständigem  Rühren köcheln lassen, bis die Flüssigkeit komplett aufgenommen ist.", "Nach und nach restliche Brühe hinzugeben und unter Rühren weitere 12 Minuten kochen, bis der Reis fast gar ist.", "In der Zwischenzeit Karotten waschen oder schälen und reiben.", "Anschließend Karotten zu dem fast gar gekochten Reis geben und weitere 2-3 Min köcheln lassen, bis der Reis cremig ist. Mit Salz würzen.", "In der Zwischenzeit Parmesan reiben.", "Wenn der Reis fertig ist, Parmesan und Butter hinzufügen, mischen und warm halten.", "Walnüsse hacken.", "Petersilie waschen, trocken schütteln und fein hacken.", "Restliches Öl in einer Schüssel mit Petersilie und Salz mischen.", "Risotto mit Petersilienöl und Walnüssen garnieren und genießen."
+            ],
+            "isVegan": false,
+            "durationInMinutes": 30,
+            "calories": 787,
+            "ingrediants": [
+                {
+                    "quantity": "1",
+                    "name": "Speisezwiebel",
+                    
+                },
+                {
+                    "quantity": "1",
+                    "name": "Staudensellerie",
+                 
+                },
+                {
+                    "quantity": "15 g",
+                    "name": "Petersillie",
+                    
+                },
+                {
+                    "quantity": "2",
+                    "name": "Karotten",
+                    
+                },
+                {
+                    "quantity": "40 g",
+                    "name": "Walnusskerne",
+                    
+                },
+                {
+                    "quantity": "30 g",
+                    "name": "Parmesan",
+                    
+                },
+                {
+                    "quantity": "160 g",
+                    "name": "Risottoreis",
+                    
+                },
+                {
+                    "quantity": "4 EL",
+                    "name": "Olivenöl",
+                    
+                },
+                {
+                    "quantity": "",
+                    "name": "Salz",
+                    
+                },
+                {
+                    "quantity": "1 EL",
+                    "name": "Butter",
+                    
+                },
+                {
+                    "quantity": "1 Zehe",
+                    "name": "Knoblauch",
+                    
+                },
+                {
+                    "quantity": "1/2 l",
+                    "name": "Gemüsebrühe",
+                    
+                }
+            ],
+            "cooksNote": "do it with love!",
+            "nutritions": [
+                {
+                    "unit": "",
+                    "name": "kcal",
+                    "value": "787",
+                    "percent": 7
+                },
+                {
+                    "unit": "g",
+                    "name": "Eiweiß",
+                    "value": "17",
+                    "percent": 16
+                },
+                {
+                    "unit": "g",
+                    "name": "Fett",
+                    "value": "46",
+                    "percent": 17
+                }
+            ]
+        },
+        {
+            "id" : 1,
+            "title": "Nudeln in Zucchini-Erdnuss-Sauce",
+            "shortTitle": "Nudeln in Zucchini-Erdnuss-Sauce",
+            "description": "Alles nur Peanuts!",
+            "imageName" : "rezept_19",
+            "servings": 2,
+            "ratings": {
+                "totalRating": 12,
+                "average": "5",
+                "maxRating": "5"
+            },
+            "steps": [
+                "Knoblauch schälen und fein würfeln.",
+                "Währenddessen Zwiebel schälen, halbieren und in Halbringe schneiden.",
+                "Zucchini waschen und in ca. 7 cm. lange Stifte schneiden.",
+                "Limette halbieren und Saft auspressen.",
+                "Petersilie waschen, trocken schütteln und grob hacken.",
+                "Leicht gesalzenes Wasser in einem Topf zum Kochen bringen. Nudeln darin nach Packungsanweisung al dente kochen.",
+                "Währenddessen in einer Pfanne etwas Olivenöl erhitzen. Knoblauch und Chiliflocken ca. 30 Sekunden anschwitzen.",
+                "Zwiebeln und Zucchini dazugeben, ca. 3 Minuten braten und zur Seite stellen.",
+                "Die Erdnüsse mit etwas Wasser zu einer cremigen Masse pürieren.",
+                "Erdnusscrème, Limettensaft und Gemüsebrühe in der Pfanne erhitzen, bis sich die Erdnussmasse vollständig aufgelöst hat. Mit etwas Salz, Pfeffer und Zucker abschmecken.",
+                "Anschließend das Gemüse zur Sauce geben und die Temperatur noch mal kurz erhöhen.",
+                "Petersilie unterheben.",
+                "Nudeln abgießen und mit der Soße servieren."
+            ],
+            "isVegan": true,
+            "durationInMinutes": 30,
+            "calories": 712,
+            "ingrediants": [
+                {
+                    "quantity": "1",
+                    "name": "rote Zwiebel"
+                    
+                },
+                {
+                    "quantity": "10 g",
+                    "name": "Petersillie"
+                    
+                },
+                {
+                    "quantity": "1",
+                    "name": "Zucchini"
+                    
+                },
+                {
+                    "quantity": "1",
+                    "name": "Limette"
+                   
+                },
+                {
+                    "quantity": "80 g",
+                    "name": "Erdnüsse geröstet & ungesalzen"
+                   
+                },
+                {
+                    "quantity": "180 g",
+                    "name": "Spaghetti"
+                   
+                },
+                {
+                    "quantity": "",
+                    "name": "Pfeffer"
+                   
+                },
+                {
+                    "quantity": "",
+                    "name": "Salz"
+                   
+                },
+                {
+                    "quantity": "",
+                    "name": "Rohrzucker, unraffiniert"
+                   
+                },
+                {
+                    "quantity": "1 EL",
+                    "name": "Olivenöl"
+                   
+                },
+                {
+                    "quantity": "1 Zehe",
+                    "name": "Knoblauch"
+                   
+                },
+                {
+                    "quantity": "1/4 l",
+                    "name": "Gemüsebrühe"
+                   
+                },
+                {
+                    "quantity": "1/2 TL",
+                    "name": "Chiliflocke"
+                   
+                }
+            ],
+            "cooksNote": "do it with love!",
+            "nutritions": [
+                {
+                    "unit": "",
+                    "name": "kcal",
+                    "value": "712",
+                    "percent": 7
+                },
+                {
+                    "unit": "g",
+                    "name": "Eiweiß",
+                    "value": "25",
+                    "percent": 16
+                },
+                {
+                    "unit": "g",
+                    "name": "Fett",
+                    "value": "28",
+                    "percent": 17
+                }
+            ]
+        },
+        {
+            "id" : 2,
+            "title": "Reisnudel-Salat mit Erdnüssen & Tofu",
+            "shortTitle": "Reisnudel-Salat mit Erdnüssen & Tofu",
+            "description": "Authentisch, frisch & leicht.",
+            "imageName" : "rezept_18",
+            "servings": 2,
+            "ratings": {
+                "totalRating": 150,
+                "average": "4",
+                "maxRating": "5"
+            },
+            "steps": [
+                "Reisnudeln nach Packungsanleitung zubereiten.",
+                "Erdnüsse hacken.",
+                "Frühlingszwiebeln waschen und in Ringe schneiden.",
+                "Gurke waschen und in dünne Scheiben schneiden.",
+                "Minze waschen, trocken schütteln und Blätter abzupfen.",
+                "Koriander waschen, trocken schütteln und Blätter abzupfen.",
+                "Tofu zwischen mehrere Schichten Küchenpapier legen und Flüssigkeit ausdrücken. Dann würfeln.",
+                "Öl in einer Pfanne erhitzen und Tofu anbraten.",
+                "Limette halbieren und Saft auspressen.",
+                "Für das Dressing Sesamöl, Reisessig, Limettensaft, Zucker und Salz vermengen.",
+                "Alles auf den Tellern anrichten, Dressing darüber geben, alles vermengen und genießen."
+            ],
+            "isVegan": true,
+            "durationInMinutes": 30,
+            "calories": 616,
+            "ingrediants": [
+                {
+                    "quantity": "10 g",
+                    "name": "Koriander"
+                 
+                },
+                {
+                    "quantity": "200 g",
+                    "name": "Tofu, natur"
+                  
+                },
+                {
+                    "quantity": "10 g",
+                    "name": "Minze, frisch"
+                 
+                },
+                {
+                    "quantity": "1/4 ",
+                    "name": "Gurke"
+                 
+                },
+                {
+                    "quantity": "1/2",
+                    "name": "Frühlingszwiebel"
+                 
+                },
+                {
+                    "quantity": "1/2 ",
+                    "name": "Limette"
+                 
+                },
+                {
+                    "quantity": "40 g",
+                    "name": "Erdnüsse geröstet & ungesalzen"
+                 
+                },
+                {
+                    "quantity": "10 g",
+                    "name": "Sprossen"
+                 
+                },
+                {
+                    "quantity": "120 g",
+                    "name": "Reisnudeln"
+                 
+                },
+                {
+                    "quantity": "4 EL",
+                    "name": "Sesamöl"
+                 
+                },
+                {
+                    "quantity": "1 EL",
+                    "name": "Reisessig"
+                 
+                },
+                {
+                    "quantity": "1 TL",
+                    "name": "Zucker"
+                 
+                },
+                {
+                    "quantity": "",
+                    "name": "Salz"
+                 }
+            ],
+            "cooksNote": "do it with love!",
+            "nutritions": [
+                {
+                    "unit": "",
+                    "name": "kcal",
+                    "value": "616",
+                    "percent": 7
+                },
+                {
+                    "unit": "g",
+                    "name": "Eiweiß",
+                    "value": "18",
+                    "percent": 16
+                },
+                {
+                    "unit": "g",
+                    "name": "Fett",
+                    "value": "35",
+                    "percent": 17
+                }
+            ]
+        },
+        {
+            "id" : 3,
+            "title": "Frühlings-Bowl mit grünem Spargel, Kartoffeln & Avocadocreme",
+            "shortTitle": "Frühlings-Bowl mit grünem Spargel, Kartoffeln & Avocadocreme",
+            "description": "Weck' deine Frühlingsgefühle!",
+            "imageName" : "rezept_17",
+            "servings": 2,
+            "ratings": {
+                "totalRating": 12,
+                "average": "3",
+                "maxRating": "5"
+            },
+            "steps": [
+                "Backofen auf 200°C (Ober- und Unterhitze, empfohlen) oder 180°C (Umluft) vorheizen.",
+                "Kartoffeln waschen, halbieren oder je nach Grösse in große Stücke schneiden.",
+                "Auf ein belegtes Blech geben, salzen & pfeffern. Etwas Olivenöl darüber geben, Kartoffeln gut mischen um Gewürze und Öl zu verteilen und ca. 15 Minuten backen.",
+                "Währenddessen Spargel waschen und holzige Enden abschneiden. Wenn nötig das untere Drittel schälen.",
+                "Spargel zu den Kartoffeln geben und weitere 10 Minuten backen.",
+                "Avocado halbieren, Kern herauslösen und Fruchtfleisch mit einem Löffel aus der Schale lösen.",
+                "Basilikum waschen, trockenschütteln und Blätter abzupfen.",
+                "Schnittlauch waschen, trocken schütteln und grob hacken.",
+                "Knoblauch schälen und reiben.",
+                "Zitrone gründlich mit heißem Wasser waschen, Schale abreiben, halbieren und den Saft auspressen.",
+                "Avocado, Olivenöl, Basilikum, Schnittlauch, Zitronenschale und Knoblauch in einen Mixer geben und fein pürieren. Alternativ Kräuter sehr fein hacken, Avocado zerdrücken und alles vermengen.",
+                "Mit Salz, Pfeffer und Zitronensaft abschmecken.",
+                "Salat waschen und abtropfen lassen.",
+                "Alles in einer Schale anrichten und servieren."
+            ],
+            "isVegan": true,
+            "durationInMinutes": 30,
+            "calories": 392,
+            "ingrediants": [
+                {
+                    "quantity": "400 g",
+                    "name": "grüner Spargel"
+                   
+                },
+                {
+                    "quantity": "1/2",
+                    "name": "Avocado"
+                  
+                },
+                {
+                    "quantity": "20 g",
+                    "name": "Schnittlauch"
+                    
+                },
+                {
+                    "quantity": "40 g",
+                    "name": "Feldsalat"
+                   
+                },
+                {
+                    "quantity": "20 g",
+                    "name": "Basilikum"
+                  
+                },
+                {
+                    "quantity": "1/4",
+                    "name": "Zitrone"
+                  
+                },
+                {
+                    "quantity": "600 g",
+                    "name": "Kartoffeln"
+                  
+                },
+                {
+                    "quantity": "6 g",
+                    "name": "Sprossen"
+                  
+                },
+                {
+                    "quantity": "3 EL",
+                    "name": "Olivenöl"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Salz"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Pfeffer"
+                  
+                },
+                {
+                    "quantity": "1/2 Zehe",
+                    "name": "Knoblauch"
+                  
+                }
+            ],
+            "cooksNote": "Do it with Love!",
+            "nutritions": [
+                {
+                    "unit": "",
+                    "name": "kcal",
+                    "value": "392",
+                    "percent": 7
+                },
+                {
+                    "unit": "g",
+                    "name": "Eiweiß",
+                    "value": "8",
+                    "percent": 16
+                },
+                {
+                    "unit": "g",
+                    "name": "Fett",
+                    "value": "15",
+                    "percent": 17
+                }
+            ]
+        },
+        {
+            "id" : 4,
+            "title": "Karottendip mit Pistazienpesto & Limettenjoghurt",
+            "shortTitle": "Karottendip mit Pistazienpesto & Limettenjoghurt",
+            "description": "Keep calm and carrot on",
+            "imageName" : "rezept_16",
+            "servings": 2,
+            "ratings": {
+                "totalRating": 88,
+                "average": "3",
+                "maxRating": "5"
+            },
+            "steps": [
+                "Backofen auf 225°C (Ober- und Unterhitze)/ 200°C (Umluft) vorheizen.",
+                "Karotten schälen und in dünne Scheiben schneiden.",
+                "Karotten, Wasser, Kurkuma und etwas Olivenöl n eine Auflaufform geben. Alles gut vermischen und für ca. 15 Minuten rösten.",
+                "Währenddessen rote Zwiebel schälen und würfeln.",
+                "Limette halbieren und Saft auspressen.",
+                "Zwiebeln, Hälfte des Limettensafts und Salz in ine Schüssel geben, mischen und zur Seite stellen.",
+                "Knoblauch mit der flachen Seite eines Messers zerdrücken.",
+                "2/3 des Knoblauch zu den Karotten geben. Mit Kreuzkümmel, Chili, Salz und Pfeffer würzen und mischen. Temperatur auf 240°C (Ober- und Unterhitze, empfohlen) oder 220°C (Umluft) erhöhen und für weitere 10 Minuten rösten, bis die Karotten weich sind.",
+                "Koriander waschen, trocken schütteln und Blätter abzupfen.",
+                "Pistazien, Koriander, restliches Olivenöl und Knoblauch in einen Mixer geben und zerkleinern. Mit Salz und Pfeffer würzen.",
+                "Joghurt und restlichen Limettensaft in eine Schüssel geben. Mit Salz würzen.",
+                "Ofenwarme Karotten und Knoblauch mit einer Gabel zerdrücken.",
+                "Karottendip in eine Schüssel geben. Mit Joghurt, Pistazienpesto und eingelegten Zwiebeln garnieren. Nach Belieben mit Fladenbrot genießen."
+       
+            ],
+            "isVegan": true,
+            "durationInMinutes": 30,
+            "calories": 608,
+            "ingrediants": [
+                {
+                    "quantity": "9",
+                    "name": "Karotten"
+                   
+                },
+                {
+                    "quantity": "1/2",
+                    "name": "rote Zwiebel"
+                  
+                },
+                {
+                    "quantity": "20 g",
+                    "name": "Koriander, frisch"
+                    
+                },
+                {
+                    "quantity": "3 g",
+                    "name": "Limetten"
+                   
+                },
+                {
+                    "quantity": "70 g",
+                    "name": "Pflanzlicher Joghurt"
+                  
+                },
+                {
+                    "quantity": "50 g",
+                    "name": " Pistazien, ungesalzen"
+                  
+                },
+                {
+                    "quantity": "5 Zehen",
+                    "name": "Knoblauch"
+                  
+                },
+                {
+                    "quantity": "6 EL",
+                    "name": "Olivenöl"
+                  
+                },
+                {
+                    "quantity": "1 EL",
+                    "name": "Kurkuma"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Salz"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Pfeffer"
+                  
+                },
+                {
+                    "quantity": "200 ml",
+                    "name": "Wasser"
+                  
+                },
+                {
+                    "quantity": "2 TL",
+                    "name": "Kreuzkümmel (Cumin), gemahlen"
+                  
+                },
+                {
+                    "quantity": "1/2 TL",
+                    "name": "Chiliflocke"
+                  
+                }
+            ],
+            "cooksNote": "Do it with Love!",
+            "nutritions": [
+                {
+                    "unit": "",
+                    "name": "kcal",
+                    "value": "608",
+                    "percent": 7
+                },
+                {
+                    "unit": "g",
+                    "name": "Eiweiß",
+                    "value": "10",
+                    "percent": 16
+                },
+                {
+                    "unit": "g",
+                    "name": "Fett",
+                    "value": "43",
+                    "percent": 17
+                }
+            ]
+        },
+        {
+            "id" : 5,
+            "title": "Rhabarber aus dem Ofen mit Quinoa & Salat",
+            "shortTitle": "Rhabarber aus dem Ofen mit Quinoa & Salat",
+            "description": "Rhabarber laber?",
+            "imageName" : "rezept_15",
+            "servings": 2,
+            "ratings": {
+                "totalRating": 98,
+                "average": "4",
+                "maxRating": "5"
+            },
+            "steps": [
+                "Backofen auf 200°C (Ober- und Unterhitze, empfohlen) oder 180°C (Umluft) vorheizen.",
+                "Rhabarber waschen und in Stücke schneiden.",
+                "Schalotten schälen und je nach Größe längs halbieren oder vierteln.",
+                "Cherrytomaten waschen und abtropfen lassen.",
+                "1/3 des Honigs und die Hälfte des Balsamicos in einer Schüssel verrühren.",
+                "Rhabarber, Schalotten und Tomaten in einer ofenfesten Form mit Marinade mischen und mit Salz und Pfeffer würzen. Dann 20 Minuten im Backofen backen, bis das Gemüse weich ist.",
+                "Quinoa mit Gemüsebrühe nach Packungsanleitung zubereiten.",
+                "Pinienkerne in einer Pfanne ohne Öl goldbraun rösten.",
+                "Salat waschen und abtropfen lassen.",
+                "Ziegenkäse grob zerkrümeln.",
+                "Olivenöl, Senf, restlichen Balsamico und Honig in einer großen Schüssel mischen. Mit Salz und Pfeffer würzen.",
+                "Pinienkerne, Salat und Ziegenkäse hinzufügen und gut mischen.",
+                "Quinoa mit gebackenem Gemüse und Salat servieren. Mit restlichem Salatdressing beträufeln und genießen."
+       
+            ],
+            "isVegan": false,
+            "durationInMinutes": 30,
+            "calories": 778,
+            "ingrediants": [
+                {
+                    "quantity": "80 g",
+                    "name": "Feldsalat"
+                   
+                },
+                {
+                    "quantity": "150 g",
+                    "name": "Rhabarber"
+                  
+                },
+                {
+                    "quantity": "2",
+                    "name": "Schalotten"
+                    
+                },
+                {
+                    "quantity": "120 g",
+                    "name": "Quinoa"
+                   
+                },
+                {
+                    "quantity": "80 g",
+                    "name": "Ziegenkäserollen"
+                  
+                },
+                {
+                    "quantity": "30 g",
+                    "name": "Pinienkerne"
+                  
+                },
+                {
+                    "quantity": "120 g",
+                    "name": "Cherrytomaten"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Pfeffer"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Salz"
+                  
+                },
+                {
+                    "quantity": "2 TL",
+                    "name": "Senf"
+                  
+                },
+                {
+                    "quantity": "4 EL",
+                    "name": "Aceto Balsamico"
+                  
+                },
+                {
+                    "quantity": "6 EL",
+                    "name": "Honig"
+                  
+                },
+                {
+                    "quantity": "1 TL",
+                    "name": "Gemüsebrühe"
+                  
+                },
+                {
+                    "quantity": "4 EL",
+                    "name": "Olivenöl"
+                  
+                }
+            ],
+            "cooksNote": "Do it with Love!",
+            "nutritions": [
+                {
+                    "unit": "",
+                    "name": "kcal",
+                    "value": "778",
+                    "percent": 7
+                },
+                {
+                    "unit": "g",
+                    "name": "Eiweiß",
+                    "value": "25",
+                    "percent": 16
+                },
+                {
+                    "unit": "g",
+                    "name": "Fett",
+                    "value": "45",
+                    "percent": 17
+                }
+            ]
+        },
+        {
+            "id" : 6,
+            "title": "Vegetarischer Glasnudelsalat",
+            "shortTitle": "Vegetarischer Glasnudelsalat",
+            "description": "Sommerlich frisch, direkt auf den Tisch!",
+            "imageName" : "rezept_14",
+            "servings": 2,
+            "ratings": {
+                "totalRating": 98,
+                "average": "5",
+                "maxRating": "5"
+            },
+            "steps": [
+                "Glasnudeln nach Packungsanleitung kochen.",
+                "Erdnüsse hacken.",
+                "Gurke waschen, halbieren, erst der Länge nach in dünne Scheiben, dann in feine Stifte schneiden.",
+                "Radieschen waschen, halbieren und in Scheiben oder in dünne Stifte schneiden.",
+                "Karotten waschen, schälen und mit dem Gemüseschäler in dünne Streifen schneiden.",
+                "Währenddessen Minze waschen, trocken schütteln und fein hacken.",
+                "Koriander waschen, trocken schütteln und Blätter abzupfen.",
+                "Knoblauch schälen und reiben.",
+                "Ingwer schälen und reiben.",
+                "Limette halbieren und Saft auspressen.",
+                "Für das Dressing Sojasauce, Sesamöl, Limettensaft, Reisessig, Knoblauch, Ingwer, braunen Zucker und Chilisauce verrühren.",
+                "Reisnudeln, Gemüse, Mungobohnenkeimlinge und Kräuter in eine Schale geben, das Dressing darüber geben und alles vermengen.",
+                "Mit Nüssen bestreuen und servieren."
+       
+            ],
+            "isVegan": false,
+            "durationInMinutes": 30,
+            "calories": 569,
+            "ingrediants": [
+                {
+                    "quantity": "10 g",
+                    "name": "Koriander, frisch"
+                   
+                },
+                {
+                    "quantity": "2",
+                    "name": "Karotten"
+                  
+                },
+                {
+                    "quantity": "10 g",
+                    "name": "Minze, frisch"
+                    
+                },
+                {
+                    "quantity": "10 g",
+                    "name": "Ingwer"
+                   
+                },
+                {
+                    "quantity": "1/2",
+                    "name": "Gurke"
+                  
+                },
+                {
+                    "quantity": "1",
+                    "name": "Limette"
+                  
+                },
+                {
+                    "quantity": "60 g",
+                    "name": "Sojasprossen"
+                  
+                },
+                {
+                    "quantity": "1/4",
+                    "name": "Bund Radieschen"
+                  
+                },
+                {
+                    "quantity": "40 g",
+                    "name": "Erdnüsse geröstet & ungesalzen"
+                  
+                },
+                {
+                    "quantity": "160 g",
+                    "name": "Glasnudeln"
+                  
+                },
+                {
+                    "quantity": "2 EL",
+                    "name": "Sesamöl"
+                  
+                },
+                {
+                    "quantity": "2 TL",
+                    "name": "Reisessig"
+                  
+                },
+                {
+                    "quantity": "2 TL",
+                    "name": "Rohrzucker, unraffiniert"
+                  
+                },
+                {
+                    "quantity": "1/2 TL",
+                    "name": "Thai-Chilisauce (Sriracha)"
+                  
+                },
+                {
+                    "quantity": "1 Zehe",
+                    "name": "Knoblauch"
+                  
+                },
+                {
+                    "quantity": "2 EL",
+                    "name": "Sojasauce"
+                  
+                }
+            ],
+            "cooksNote": "Do it with Love!",
+            "nutritions": [
+                {
+                    "unit": "",
+                    "name": "kcal",
+                    "value": "569",
+                    "percent": 7
+                },
+                {
+                    "unit": "g",
+                    "name": "Eiweiß",
+                    "value": "11",
+                    "percent": 16
+                },
+                {
+                    "unit": "g",
+                    "name": "Fett",
+                    "value": "21",
+                    "percent": 17
+                }
+            ]
+        },
+        {
+            "id" : 7,
+            "title": "Zitronenpasta mit grünem Spargel",
+            "shortTitle": "Zitronenpasta mit grünem Spargel",
+            "description": "Schmeckt nach Frühling",
+            "imageName" : "rezept_13",
+            "servings": 2,
+            "ratings": {
+                "totalRating": 98,
+                "average": "2.5",
+                "maxRating": "5"
+            },
+            "steps": [
+                "Pasta nach Packungsanleitung kochen. Beim Abgießen etwas Kochwasser auffangen.",
+                "Spargel waschen, holzige Enden abschneiden und nach Bedarf schälen. Dann die Stangen in ca. 5 cm lange Stücke schneiden.",
+                "Knoblauch schälen und reiben.",
+                "Parmesan reiben.",
+                "Basilikum waschen, trockenschütteln und Blätter abzupfen.",
+                "Zitrone gründlich mit heilem Wasser waschen, Schale abreiben, halbieren und den Saft auspressen.",
+                "Öl in einer großen Pfanne erhitzen. Anschließend Spargel hinzufügen, mit Salz würzen und anbraten.",
+                "Knoblauch, Zitronenschale, Zitronensaft und Weißwein hinzufügen und ca. 2-3 Minuten köcheln.",
+                "Anschließend gekochte Pasta, Butter, Parmesan und Basilikum in die Pfanne geben. Etwas Kochwasser hinzufügen und alles gut mischen, bis Pasta von der Sauce umhüllt ist.",
+                "Pasta mit Pfeffer und nach Belieben mit etwas mehr Parmesan und Zitronenschale garnieren und genießen.",
+                
+       
+            ],
+            "isVegan": false,
+            "durationInMinutes": 30,
+            "calories": 676,
+            "ingrediants": [
+                {
+                    "quantity": "200 g",
+                    "name": "grüner Spargel"
+                   
+                },
+                {
+                    "quantity": "1",
+                    "name": "Zitrone"
+                  
+                },
+                {
+                    "quantity": "180 g",
+                    "name": "Spaghetti"
+                    
+                },
+                {
+                    "quantity": "120 g",
+                    "name": "Parmesan"
+                   
+                },
+                {
+                    "quantity": "100 ml",
+                    "name": "Weißwein"
+                  
+                },
+                {
+                    "quantity": "15 g",
+                    "name": "Basilikum, frisch"
+                  
+                },
+                {
+                    "quantity": "2 EL",
+                    "name": "Butter"
+                  
+                },
+                {
+                    "quantity": "1 Zehe",
+                    "name": "Knoblauch"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Pfeffer"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Salz"
+                  
+                },
+                {
+                    "quantity": "1 EL",
+                    "name": "Olivenöl"
+                  
+                }
+                
+            ],
+            "cooksNote": "Do it with Love!",
+            "nutritions": [
+                {
+                    "unit": "",
+                    "name": "kcal",
+                    "value": "676",
+                    "percent": 7
+                },
+                {
+                    "unit": "g",
+                    "name": "Eiweiß",
+                    "value": "33",
+                    "percent": 16
+                },
+                {
+                    "unit": "g",
+                    "name": "Fett",
+                    "value": "28",
+                    "percent": 17
+                }
+            ]
+        },
+        {
+            "id" : 8,
+            "title": "Hummus mit gerösteten Tomaten",
+            "shortTitle": "Hummus mit gerösteten Tomaten",
+            "description": "Liebe auf den ersten Dip",
+            "imageName" : "rezept_12",
+            "servings": 2,
+            "ratings": {
+                "totalRating": 77,
+                "average": "4.5",
+                "maxRating": "5"
+            },
+            "steps": [
+                "Backofen auf 180°C (Ober- und Unterhitze, empfohlen) oder 160°C (Umluft) vorheizen.",
+                "Cherrytomaten waschen und halbieren.",
+                "Tomaten auf ein mit Backpapier belegtes Blech oder in eine ofenfeste Form geben. Honig und Ol darüber geben und 10-15 Minuten backen.",
+                "Währenddessen Pinienkerne in einer Pfanne ohne Öl goldbraun rosten.",
+                "Knoblauch schälen und fein würfeln.",
+                "Limette halbieren und Saft auspressen.",
+                "Abgetropfte Kichererbsen, eiskaltes Wasser, Tahin, Olivenöl, Limettensaft und Knoblauch fein pürieren. Mit Kreuzkümmel, Salz und Pfeffer würzen.",
+                "Petersilie waschen, trocken schütteln und hacken.",
+                "Hummus auf die Teller geben, gebackene Tomaten darauf geben. Mit Pinienkernen und Petersilie bestreuen.",
+                
+       
+            ],
+            "isVegan": false,
+            "durationInMinutes": 30,
+            "calories": 529,
+            "ingrediants": [
+                {
+                    "quantity": "30 g",
+                    "name": "Tahin (Sesampaste)"
+                   
+                },
+                {
+                    "quantity": "10 g",
+                    "name": "Petersilie, frisch"
+                  
+                },
+                {
+                    "quantity": "1/2 ",
+                    "name": "Limette"
+                    
+                },
+                {
+                    "quantity": "240 g",
+                    "name": "Kichererbsen"
+                   
+                },
+                {
+                    "quantity": "400 g",
+                    "name": "Cherrytomaten"
+                  
+                },
+                {
+                    "quantity": "30 g",
+                    "name": "Pinienkerne"
+                  
+                },
+                {
+                    "quantity": "4 EL",
+                    "name": "Olivenöl"
+                  
+                },
+                {
+                    "quantity": "2 TL",
+                    "name": "Honig"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Pfeffer"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Salz"
+                  
+                },
+                {
+                    "quantity": "1/4 Zehe",
+                    "name": "Knoblauch"
+                  
+                },
+                {
+                    "quantity": "4 EL",
+                    "name": "Wasser"
+                  
+                },
+                {
+                    "quantity": "1/2 TL",
+                    "name": "Kreuzkümmel (Cumin), gemahlen"
+                  
+                }
+                
+            ],
+            "cooksNote": "Do it with Love!",
+            "nutritions": [
+                {
+                    "unit": "",
+                    "name": "kcal",
+                    "value": "529",
+                    "percent": 7
+                },
+                {
+                    "unit": "g",
+                    "name": "Eiweiß",
+                    "value": "19",
+                    "percent": 16
+                },
+                {
+                    "unit": "g",
+                    "name": "Fett",
+                    "value": "36",
+                    "percent": 17
+                }
+            ]
+        },
+        {
+            "id" : 9,
+            "title": "Pasta mit Grünem Pesto",
+            "shortTitle": "Pasta mit Grünem Pesto",
+            "description": "Hausgemachtes Pesto, aber presto!",
+            "imageName" : "rezept_11",
+            "servings": 2,
+            "ratings": {
+                "totalRating": 187,
+                "average": "4.2",
+                "maxRating": "5"
+            },
+            "steps": [
+                "Pasta nach Packungsanleitung kochen.",
+                "Mandeln in einer Pfanne ohne Öl goldbraun rösten.",
+                "Mandeln grob hacken.",
+                "Basilikum waschen und abtropfen lassen.",
+                "Petersilie waschen und trocken schütteln.",
+                "Limette halbieren und Saft auspressen.",
+                "Knoblauch schälen und in große Stücke schneiden.",
+                "Basilikum, Petersilie, Mandeln und Knoblauch im Mixer pürieren.",
+                "Olivenöl, Limettensaft, Sojasauce und Tahin zufügen. Salzen, pfeffern und noch einmal mixen. Falls das Pesto zu dick ist, mit Wasser bis zur gewünschten Konsistenz verdünnen.",
+                "Nudeln mit dem Pesto verrühren und servieren.",
+       
+            ],
+            "isVegan": true,
+            "durationInMinutes": 30,
+            "calories": 588,
+            "ingrediants": [
+                {
+                    "quantity": "20 g",
+                    "name": "Petersilie, frisch"
+                   
+                },
+                {
+                    "quantity": "10 g",
+                    "name": "Tahin (Sesampaste)"
+                  
+                },
+                {
+                    "quantity": "20 g ",
+                    "name": "Basilikum, frisch"
+                    
+                },
+                {
+                    "quantity": "1/2 ",
+                    "name": "Limette"
+                   
+                },
+                {
+                    "quantity": "180 g",
+                    "name": "Fusilli Nudeln (Spiralnudeln)"
+                  
+                },
+                {
+                    "quantity": "40 g",
+                    "name": "Mandeln"
+                  
+                },
+                {
+                    "quantity": "2 EL",
+                    "name": "Olivenöl"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Pfeffer"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Salz"
+                  
+                },
+                {
+                    "quantity": "2 Zehe",
+                    "name": "Knoblauch"
+                  
+                },
+                {
+                    "quantity": "2 TL",
+                    "name": "Sojasauce"
+                  
+                }
+                
+            ],
+            "cooksNote": "Do it with Love!",
+            "nutritions": [
+                {
+                    "unit": "",
+                    "name": "kcal",
+                    "value": "588",
+                    "percent": 7
+                },
+                {
+                    "unit": "g",
+                    "name": "Eiweiß",
+                    "value": "17",
+                    "percent": 16
+                },
+                {
+                    "unit": "g",
+                    "name": "Fett",
+                    "value": "27",
+                    "percent": 17
+                }
+            ]
+        },
+        {
+            "id" : 10,
+            "title": "Curry-Hummus mit gegrilltem Gemüse",
+            "shortTitle": "Curry-Hummus mit gegrilltem Gemüse",
+            "description": "Zum Dippen, Snacken & Streichen",
+            "imageName" : "rezept_10",
+            "servings": 2,
+            "ratings": {
+                "totalRating": 205,
+                "average": "3.2",
+                "maxRating": "5"
+            },
+            "steps": [
+                "Backofen auf 220°C (Ober- und Unterhitze, empfohlen) oder 200°C (Umluft) vorheizen.",
+                "Karotte schälen und in dicke Stifte schneiden.",
+                "Karotten auf ein mit Backpapier belegtes Backblech legen. Salzen und pfeffern und mit Olivenöl beträufeln, dann 10 Minuten backen.",
+                "Spargel waschen, holzige Enden abschneiden und das untere Drittel bei Bedarf schälen. Anschließend in Stücke schneiden.",
+                "Zwiebel schälen und vierteln.",
+                "Zitrone halbieren und Saft auspressen.",
+                "Knoblauch schälen und reiben.",
+                "Nach 10 Minuten Spargel, rote Zwiebel und etwas Olivenöl zu den Karotten aufs Backblech geben. Alles vermischen. Abhängig von der Dicke der Spargelstangen für weitere 5-10 Minuten backen.",
+                "Für den Hummus abgetropfte Kichererbsen, Currypulver, Wasser, Knoblauch, Tahin, Olivenöl, Zitronensaft, Salz und Pfeffer mixen, bis alles cremig ist.",
+                "Hummus in einer Schüssel servieren und mit geröstetem Gemüse toppen.",
+            ],
+            "isVegan": true,
+            "durationInMinutes": 30,
+            "calories": 451,
+            "ingrediants": [
+                {
+                    "quantity": "100 g",
+                    "name": "grüner Spargel"
+                   
+                },
+                {
+                    "quantity": "30 g",
+                    "name": "Tahin (Sesampaste)"
+                  
+                },
+                {
+                    "quantity": "1",
+                    "name": "rote Zwiebel"
+                    
+                },
+                {
+                    "quantity": "2 ",
+                    "name": "Karotten"
+                   
+                },
+                {
+                    "quantity": "1/2",
+                    "name": "Zitrone"
+                  
+                },
+                {
+                    "quantity": "200 g",
+                    "name": "Kichererbsen"
+                  
+                },
+                {
+                    "quantity": "4 EL",
+                    "name": "Olivenöl"
+                  
+                },
+                {
+                    "quantity": "4 TL",
+                    "name": "Currypulver"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Pfeffer"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Salz"
+                  
+                },
+                {
+                    "quantity": "2 Zehe",
+                    "name": "Knoblauch"
+                  
+                },
+                {
+                    "quantity": "6 EL",
+                    "name": "Wasser"
+                  
+                }
+                
+            ],
+            "cooksNote": "Do it with Love!",
+            "nutritions": [
+                {
+                    "unit": "",
+                    "name": "kcal",
+                    "value": "451",
+                    "percent": 7
+                },
+                {
+                    "unit": "g",
+                    "name": "Eiweiß",
+                    "value": "14",
+                    "percent": 16
+                },
+                {
+                    "unit": "g",
+                    "name": "Fett",
+                    "value": "30",
+                    "percent": 17
+                }
+            ]
+        },
+        {
+            "id" : 11,
+            "title": "Cheddar-Feigensenf-Scones",
+            "shortTitle": "Cheddar-Feigensenf-Scones",
+            "description": "Keep calm, eat scones!",
+            "imageName" : "rezept_9",
+            "servings": 2,
+            "ratings": {
+                "totalRating": 45,
+                "average": "2.4",
+                "maxRating": "5"
+            },
+            "steps": [
+                "Backofen auf 180°C (Ober- und Unterhitze, empfohlen) oder 160°C (Umluft) vorheizen.",
+                "Käse reiben.",
+                "Frühlingszwiebeln waschen und in Ringe schneiden.",
+                "Ei, Crème fraîche und Senf in einer Schale mischen.",
+                "Cheddar und Frühlingszwiebeln dazugeben, mit Pfeffer würzen.",
+                "Mehl, Salz und Backpulver in eine andere Schale geben. Gewürfelte Butter dazugeben und mit Fingern verkneten.",
+                "Die Inhalte der beiden Schalen zu einem glatten Teig kneten. Auf einer bemehlten Fläche zu einem ca. 2 cm dicken Kreis ausrollen.",
+                "Den Teig in Dreiecke schneiden und auf ein mit Backpapier belegtes Blech geben. Mit Milch bepinseln und ca. 20 Minuten goldbraun backen.",
+                "Scones nach Wunsch mit Butter, Frischkäse oder Feigensenf servieren.",
+           
+            ],
+            "isVegan": false,
+            "durationInMinutes": 35,
+            "calories": 766,
+            "ingrediants": [
+                {
+                    "quantity": "50 g",
+                    "name": "Cheddar Käse"
+                   
+                },
+                {
+                    "quantity": "1/2",
+                    "name": "Ei"
+                  
+                },
+                {
+                    "quantity": "100 g",
+                    "name": "Crème fraîche"
+                    
+                },
+                {
+                    "quantity": "60 ml ",
+                    "name": "Vollmilch"
+                   
+                },
+                {
+                    "quantity": "1",
+                    "name": "Frühlingszwiebel"
+                  
+                },
+                {
+                    "quantity": "30 g",
+                    "name": "Feigensenf"
+                  
+                },
+                {
+                    "quantity": "1 TL",
+                    "name": "Backpulver"
+                  
+                },
+                {
+                    "quantity": "30 g",
+                    "name": "Butter"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Pfeffer"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Salz"
+                  
+                },
+                {
+                    "quantity": "200 g",
+                    "name": "Weizenmehl"
+                  
+                }
+                
+            ],
+            "cooksNote": "Do it with Love!",
+            "nutritions": [
+                {
+                    "unit": "",
+                    "name": "kcal",
+                    "value": "766",
+                    "percent": 7
+                },
+                {
+                    "unit": "g",
+                    "name": "Eiweiß",
+                    "value": "21",
+                    "percent": 16
+                },
+                {
+                    "unit": "g",
+                    "name": "Fett",
+                    "value": "39",
+                    "percent": 17
+                }
+            ]
+        },
+        {
+            "id" : 12,
+            "title": "Zucchinipuffer mit Fetakäse",
+            "shortTitle": "Zucchinipuffer mit Fetakäse",
+            "description": "Zucchinipuffer & Kartoffelpüree sind 'ne grandiose Idee!",
+            "imageName" : "rezept_8",
+            "servings": 2,
+            "ratings": {
+                "totalRating": 88,
+                "average": "4.4",
+                "maxRating": "5"
+            },
+            "steps": [
+                "Zucchini waschen und grob raspeln.",
+                "Dann salzen und in einem Sieb ziehen lassen.",
+                "Kartoffeln schälen, vierteln und in reichlich Salzwasser ca. 15-20 Minuten weichgaren.",
+                "Währenddessen Zwiebel schälen und fein würfeln.",
+                "Zwiebel in einer Pfanne mit Rapsöl anbraten.",
+                "Das Wasser aus den Zucchini gut ausdrücken.",
+                "Zwiebeln, Eier und zerbröselten Feta zu den Zucchini geben und vermengen.",
+                "Mit Salz und Kräutern der Provence würzen und zum Schluss Mehl einkneten.",
+                "Öl in der Pfanne erhitzen. Zucchini-Mischung mit einem Esslöffel in die Pfanne geben. Puffer ca. 3 Minuten pro Seite goldbraun braten.",
+                "Wasser von den Kartoffeln abgießen. Butter und leicht erwärmte Milch hinzufügen und zerstampfen, sodass eine sämige Masse entsteht. Mit Salz, Pfeffer und Muskatnuss würzen.",
+                "Zucchinipuffer mit Kartoffelpüree und nach Wunsch mit frischem Gemüse genießen.",
+           
+            ],
+            "isVegan": false,
+            "durationInMinutes": 35,
+            "calories": 620,
+            "ingrediants": [
+                {
+                    "quantity": "1",
+                    "name": "Ei"
+                   
+                },
+                {
+                    "quantity": "60 g",
+                    "name": "Feta Käse"
+                  
+                },
+                {
+                    "quantity": "100 ml",
+                    "name": "Vollmilch"
+                    
+                },
+                {
+                    "quantity": "1/2 ",
+                    "name": "Speisezwiebel"
+                   
+                },
+                {
+                    "quantity": "1 1/2",
+                    "name": "Zucchini"
+                  
+                },
+                {
+                    "quantity": "600 g",
+                    "name": "Kartoffeln"
+                  
+                },
+                {
+                    "quantity": "1 EL",
+                    "name": "Pflanzenöl"
+                  
+                },
+                {
+                    "quantity": "20 g",
+                    "name": "Butter"
+                  
+                },
+                {
+                    "quantity": "1 Prise",
+                    "name": "Muskatnuss"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Pfeffer"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Salz"
+                  
+                },
+                {
+                    "quantity": "60 g",
+                    "name": "Weizenmehl"
+                  
+                },
+                {
+                    "quantity": "1 TL",
+                    "name": "Kräuter der Provence, getrocknet"
+                  
+                }
+                
+                
+            ],
+            "cooksNote": "Do it with Love!",
+            "nutritions": [
+                {
+                    "unit": "",
+                    "name": "kcal",
+                    "value": "620",
+                    "percent": 7
+                },
+                {
+                    "unit": "g",
+                    "name": "Eiweiß",
+                    "value": "19",
+                    "percent": 16
+                },
+                {
+                    "unit": "g",
+                    "name": "Fett",
+                    "value": "27",
+                    "percent": 17
+                }
+            ]
+        },
+        {
+            "id" : 13,
+            "title": "Radischen-Fenchel-Salat",
+            "shortTitle": "Radischen-Fenchel-Salat",
+            "description": "Knackig frisch und schnell auf dem Tisch!",
+            "imageName" : "rezept_7",
+            "servings": 2,
+            "ratings": {
+                "totalRating": 54,
+                "average": "3",
+                "maxRating": "5"
+            },
+            "steps": [
+                "Linsen nach Packungsanleitung kochen.",
+                "Fenchel waschen und ebenso in Scheiben schneiden.",
+                "Radieschen waschen und in Scheiben schneiden.",
+                "Sellerie waschen und in feine Scheiben schneiden.",
+                "Zitrone halbieren und Saft auspressen.",
+                "Für das Dressing Zitronensaft und Leinöl verrühren, salzen und pfeffern.",
+                "Gekochte Linsen und das vorbereitete Gemüse in eine Schale geben und mit dem Dressing vermengen.",
+                "Nach Bedarf noch mal abschmecken und genießen.",
+                           
+            ],
+            "isVegan": true,
+            "durationInMinutes": 30,
+            "calories": 401,
+            "ingrediants": [
+                {
+                    "quantity": "1 Stange",
+                    "name": "Staudensellerie"
+                   
+                },
+                {
+                    "quantity": "1",
+                    "name": "Fenchel"
+                  
+                },
+                {
+                    "quantity": "1/2",
+                    "name": "Zitrone"
+                    
+                },
+                {
+                    "quantity": "1/2 Bund ",
+                    "name": "Radieschen"
+                   
+                },
+                {
+                    "quantity": "100 g",
+                    "name": "Beluga Linsen"
+                  
+                },
+                {
+                    "quantity": "4 EL",
+                    "name": "Leinöl"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Salz"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Pfeffer"
+                  
+                }
+                
+                
+            ],
+            "cooksNote": "Do it with Love!",
+            "nutritions": [
+                {
+                    "unit": "",
+                    "name": "kcal",
+                    "value": "401",
+                    "percent": 7
+                },
+                {
+                    "unit": "g",
+                    "name": "Eiweiß",
+                    "value": "15",
+                    "percent": 16
+                },
+                {
+                    "unit": "g",
+                    "name": "Fett",
+                    "value": "22",
+                    "percent": 17
+                }
+            ]
+        },
+        {
+            "id" : 14,
+            "title": "Gelbe Linsentaler mit Spiegelei",
+            "shortTitle": "Gelbe Linsentaler mit Spiegelei",
+            "description": "Du hast 'nen Taler!",
+            "imageName" : "rezept_6",
+            "servings": 2,
+            "ratings": {
+                "totalRating": 104,
+                "average": "4",
+                "maxRating": "5"
+            },
+            "steps": [
+                "Linsen nach Packungsanleitung bissfest kochen.",
+                "Währenddessen Schnittlauch waschen, abtropfen lassen und fein hacken.",
+                "Frühlingszwiebeln waschen und in feine Ringe schneiden.",
+                "Käse reiben.",
+                "Die gekochten Linsen gut abtropfen lassen und anschließend in eine Schüssel geben.",
+                "Schnittlauch, Frühlingszwiebeln, Eier, Käse und Semmelbrösel hinzufügen und alles gut miteinander vermengen. Mit Salz würzen.",
+                "Öl in einer Pfanne erhitzen. Einen gehäuften EL der Linsenmischung nehmen, mit den Händen zu einem Taler formen und in die Pfanne geben.",
+                "Die Taler von beiden Seiten ca. 3 Minuten goldbraun braten.",
+                "Öl in einer Pfanne erhitzen und Spiegelei braten.",
+                "Linsentaler mit Spiegeleiern und nach Wunsch mit Salat genießen.",
+                           
+            ],
+            "isVegan": false,
+            "durationInMinutes": 30,
+            "calories": 710,
+            "ingrediants": [
+                {
+                    "quantity": "10 g",
+                    "name": "Schnittlauch"
+                   
+                },
+                {
+                    "quantity": "4",
+                    "name": "Eier"
+                  
+                },
+                {
+                    "quantity": "60 g",
+                    "name": "Schnittkäse aus Schafmilch"
+                    
+                },
+                {
+                    "quantity": "2",
+                    "name": "Frühlingszwiebeln"
+                   
+                },
+                {
+                    "quantity": "50 g",
+                    "name": "Semmelbrösel"
+                  
+                },
+                {
+                    "quantity": "160 g",
+                    "name": "Gelbe Linsen"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Salz"
+                  
+                },
+                {
+                    "quantity": "1 EL",
+                    "name": "Pflanzenöl"
+                  
+                }
+                
+                
+            ],
+            "cooksNote": "Do it with Love!",
+            "nutritions": [
+                {
+                    "unit": "",
+                    "name": "kcal",
+                    "value": "710",
+                    "percent": 7
+                },
+                {
+                    "unit": "g",
+                    "name": "Eiweiß",
+                    "value": "45",
+                    "percent": 16
+                },
+                {
+                    "unit": "g",
+                    "name": "Fett",
+                    "value": "30",
+                    "percent": 17
+                }
+            ]
+        },
+        {
+            "id" : 15,
+            "title": "Pasta mit grünem Spargel in Parmesanbutter",
+            "shortTitle": "Pasta mit grünem Spargel in Parmesanbutter",
+            "description": "Sommer, Sonne, Spargel",
+            "imageName" : "rezept_5",
+            "servings": 2,
+            "ratings": {
+                "totalRating": 302,
+                "average": "5",
+                "maxRating": "5"
+            },
+            "steps": [
+                "Pasta nach Packungsanleitung kochen.",
+                "Spargel waschen, holzige Enden abschneiden und das untere Drittel bei Bedarf schälen. Anschließend Stangen schräg in ca. 5 cm. lange Stücke schneiden.",
+                "Cherrytomaten waschen und halbieren.",
+                "Olivenöl in einer Pfanne erhitzen und den Spargel ca. 4 Minuten braten.",
+                "Tomaten dazugeben und weitere 2 Minuten braten. Salzen und pfeffern.",
+                "Parmesan reiben.",
+                "Das Wasser der fertig gegarten Pasta, bis auf eine Suppenkelle, abgießen. Butter und Parmesan zu der Pasta geben und verrühren.",
+                "Spargel und Tomaten unterheben.",
+                "Nach Belieben mit Parmesan servieren.",
+                 
+            ],
+            "isVegan": false,
+            "durationInMinutes": 20,
+            "calories": 597,
+            "ingrediants": [
+                {
+                    "quantity": "200 g",
+                    "name": "grüner Spargel"
+                   
+                },
+                {
+                    "quantity": "200",
+                    "name": "Linguine"
+                  
+                },
+                {
+                    "quantity": "30 g",
+                    "name": "Parmesan"
+                    
+                },
+                {
+                    "quantity": "200 g",
+                    "name": "Cherrytomaten"
+                   
+                },
+                {
+                    "quantity": "30 g",
+                    "name": "Butter"
+                  
+                },
+                {
+                    "quantity": "1 EL",
+                    "name": "Olivenöl"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Salz"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Pfeffer"
+                  
+                }
+                
+                
+            ],
+            "cooksNote": "Do it with Love!",
+            "nutritions": [
+                {
+                    "unit": "",
+                    "name": "kcal",
+                    "value": "597",
+                    "percent": 7
+                },
+                {
+                    "unit": "g",
+                    "name": "Eiweiß",
+                    "value": "21",
+                    "percent": 16
+                },
+                {
+                    "unit": "g",
+                    "name": "Fett",
+                    "value": "23",
+                    "percent": 17
+                }
+            ]
+        },
+        {
+            "id" : 16,
+            "title": "Süßkartoffel-Auflauf mit Feta",
+            "shortTitle": "Süßkartoffel-Auflauf mit Feta",
+            "description": "Die einfachen Dinge genießen!",
+            "imageName" : "rezept_4",
+            "servings": 2,
+            "ratings": {
+                "totalRating": 212,
+                "average": "4",
+                "maxRating": "5"
+            },
+            "steps": [
+                "Backofen auf 200°C (Ober- und Unterhitze, empfohlen) oder 180°C (Umluft) vorheizen.",
+                "Süßkartoffeln schälen, waschen und in ca.3 mm dünne Scheiben schneiden.",
+                "Knoblauch schälen und reiben.",
+                "Thymian waschen, trocken schütteln und Blätter abzupfen.",
+                "Rosmarin waschen, trocken schütteln und Nadeln abzupfen.",
+                "Süßkartoffelscheiben in eine große Schale geben und mit Salz und Pfeffer würzen. Olivenöl, Knoblauch, Rosmarin und Thymian dazugeben und gut mischen.",
+                "Süßkartoffelscheiben in einer Backform spiralförmig anordnen und ca.15 Minuten backen.",
+                "Parmesan reiben.",
+                "Süßkartoffeln mit Parmesan und zerbröseltem Feta bestreuen und weitere 20 Minuten backen.",
+                "Den Auflauf nach Wunsch mit frischen Kräutern bestreuen und genießen.",
+                 
+            ],
+            "isVegan": false,
+            "durationInMinutes": 30,
+            "calories": 657,
+            "ingrediants": [
+                {
+                    "quantity": "3",
+                    "name": "Süßkartoffeln"
+                   
+                },
+                {
+                    "quantity": "80 g",
+                    "name": "Feta Käse"
+                  
+                },
+                {
+                    "quantity": "4 Zweige",
+                    "name": "Rosmarin, frisch"
+                    
+                },
+                {
+                    "quantity": "4 Zweige",
+                    "name": "Thymian, frisch"
+                   
+                },
+                {
+                    "quantity": "20 g",
+                    "name": "Parmesan"
+                  
+                },
+                {
+                    "quantity": "4 EL",
+                    "name": "Olivenöl"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Salz"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Pfeffer"
+                  
+                },
+                {
+                    "quantity": "2 Zehe",
+                    "name": "Knoblauch"
+                  
+                }
+                
+                
+            ],
+            "cooksNote": "Do it with Love!",
+            "nutritions": [
+                {
+                    "unit": "",
+                    "name": "kcal",
+                    "value": "657",
+                    "percent": 7
+                },
+                {
+                    "unit": "g",
+                    "name": "Eiweiß",
+                    "value": "15",
+                    "percent": 16
+                },
+                {
+                    "unit": "g",
+                    "name": "Fett",
+                    "value": "30",
+                    "percent": 17
+                }
+            ]
+        },
+        {
+            "id" : 17,
+            "title": "Zitrone-Karotten-Pasta",
+            "shortTitle": "Zitrone-Karotten-Pasta",
+            "description": "Heute gibt es Nudeln, Pasta.",
+            "imageName" : "rezept_3",
+            "servings": 2,
+            "ratings": {
+                "totalRating": 12,
+                "average": "2",
+                "maxRating": "5"
+            },
+            "steps": [
+                "Karotte schälen und grob reiben.",
+                "Zwiebel schälen und fein würfeln.",
+                "Knoblauch schälen und in dünne Scheiben schneiden.",
+                "Etwas Öl in einer Pfanne erhitzen und Zwiebeln, Knoblauch und Chilli 2-3 Minuten braten.",
+                "Karotten und Zimt hinzugeben und bei mittlerer Stufe 6 Minuten mitbraten. Dann vom Herd nehmen.",
+                "In der Zwischenzeit Pasta nach Packungsanleitung zubereiten. Beim Abgießen etwas Kochwasser auffangen.",
+                "Zitrone gründlich mit heißem Wasser waschen, Schale abreiben, halbieren und den Saft auspressen.",
+                "Mandeln in einer Pfanne ohne Öl rösten.",
+                "Karotten, Zitronensaft, Mandeln und etwas Kochwasser mit dem restlichen Olivenöl in einem Mixer cremig pürieren. Mit Salz und Pfeffer würzen. Einige Mandeln zum Servieren zur Seite stellen.",
+                "Pasta mit Karottenpasta und etwas Kochwasser in der Pfanne vermischen, bis sich eine cremige Sauce gebildet hat.",
+                "Pasta mit Zitronenabrieb und nach dem Belieben mehr Mandeln garnieren und genießen.",
+                 
+            ],
+            "isVegan": true,
+            "durationInMinutes": 25,
+            "calories": 777,
+            "ingrediants": [
+                {
+                    "quantity": "4",
+                    "name": "Karotten "
+                   
+                },
+                {
+                    "quantity": "1 g",
+                    "name": "Speisezwiebel"
+                  
+                },
+                {
+                    "quantity": "1",
+                    "name": "Zitrone"
+                    
+                },
+                {
+                    "quantity": "200 g",
+                    "name": "Fusilli Nudeln (Spiralnudeln)"
+                   
+                },
+                {
+                    "quantity": "60 g",
+                    "name": "Mandeln, gehobelt"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Salz"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Pfeffer"
+                  
+                },
+                {
+                    "quantity": "2 Zehe",
+                    "name": "Knoblauch"
+                  
+                },
+                {
+                    "quantity": "4 EL",
+                    "name": "Olivenöl"
+                  
+                },
+                {
+                    "quantity": "1/2 TL",
+                    "name": "Zimt, gemahlen"
+                  
+                },
+                {
+                    "quantity": "2",
+                    "name": "Chilischoten, getrocknet"
+                  
+                }
+                
+                
+            ],
+            "cooksNote": "Do it with Love!",
+            "nutritions": [
+                {
+                    "unit": "",
+                    "name": "kcal",
+                    "value": "777",
+                    "percent": 7
+                },
+                {
+                    "unit": "g",
+                    "name": "Eiweiß",
+                    "value": "20",
+                    "percent": 16
+                },
+                {
+                    "unit": "g",
+                    "name": "Fett",
+                    "value": "36",
+                    "percent": 17
+                }
+            ]
+        },
+        {
+            "id" : 18,
+            "title": "Gnocchi Mac & Cheese-Style",
+            "shortTitle": "Gnocchi Mac & Cheese-Style",
+            "description": "Weil die Käseliebe niemals endet!",
+            "imageName" : "rezept_2",
+            "servings": 2,
+            "ratings": {
+                "totalRating": 12,
+                "average": "4.2",
+                "maxRating": "5"
+            },
+            "steps": [
+                "Brokkoli waschen und in Röschen schneiden.",
+                "Käse reiben",
+                "Gnocchi und Brokkoli in einen mit Wasser gefüllten Topf geben und zum Kochen bringen. 3 Minuten kochen, abgießen und zur Seite stellen.",
+                "Butter in einer Pfanne zerlassen. Mehl hinzufügen, mit einem Schneebesen gut umrühren und 1 Minute kochen lassen.",
+                "Nach und nach 3/4 der Milch bei ständigem Umrühren hinzugeben.",
+                "Wenn keine Klümpchen mehr in der Sauce sind, restliche Milch hinzugeben.",
+                "Knoblauchpulver, Zwiebelpulver und Senf hinzugeben und 3-4 Minuten köcheln lassen, bis die Sauce andickt.",
+                "Käse hinzugeben, mit Salz und Pfeffer würzen. Köcheln lassen, bis der Käse geschmolzen ist.",
+                "Gnocchi und Brokkoli in die Pfanne geben und gut mischen.",
+                "Sofort servieren.",
+                 
+            ],
+            "isVegan": false,
+            "durationInMinutes": 30,
+            "calories": 616,
+            "ingrediants": [
+                {
+                    "quantity": "1/3",
+                    "name": "Brokkoli "
+                   
+                },
+                {
+                    "quantity": "200 ml",
+                    "name": "Vollmilch"
+                  
+                },
+                {
+                    "quantity": "70 g",
+                    "name": "Cheddar Käse"
+                    
+                },
+                {
+                    "quantity": "400 g",
+                    "name": "Gnocchi"
+                   
+                },
+                {
+                    "quantity": "15 g",
+                    "name": "Butter"
+                  
+                },
+                {
+                    "quantity": "1/2 TL",
+                    "name": "Knoblauchpulver"
+                  
+                },
+                {
+                    "quantity": "1/2 TL",
+                    "name": "Zwiebeln, granuliert"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Salz"
+                  
+                },
+                {
+                    "quantity": "",
+                    "name": "Pfeffer"
+                  
+                },
+                {
+                    "quantity": "15 g",
+                    "name": "Weizenmehl"
+                  
+                },
+                {
+                    "quantity": "1/2 TL",
+                    "name": "Dijon Senf"
+                  
+                }
+                
+                
+            ],
+            "cooksNote": "Do it with Love!",
+            "nutritions": [
+                {
+                    "unit": "",
+                    "name": "kcal",
+                    "value": "616",
+                    "percent": 7
+                },
+                {
+                    "unit": "g",
+                    "name": "Eiweiß",
+                    "value": "25",
+                    "percent": 16
+                },
+                {
+                    "unit": "g",
+                    "name": "Fett",
+                    "value": "23",
+                    "percent": 17
+                }
+            ]
+        },
+        {
+            "id" : 19,
+            "title": "Soba Nudeln mit Brokkoli & Pak Choi",
+            "shortTitle": "Soba Nudeln mit Brokkoli & Pak Choi",
+            "description": "Japanisch, praktisch, gut",
+            "imageName" : "rezept_1",
+            "servings": 2,
+            "ratings": {
+                "totalRating": 288,
+                "average": "5",
+                "maxRating": "5"
+            },
+            "steps": [
+                "Knoblauch schälen und in dünne Scheiben schneiden.",
+                "Pak Choi waschen und abtropfen lassen. Den Strunk abschneiden und die großen Blätter längs halbieren.",
+                "Brokkoli waschen und in Röschen schneiden.",
+                "Erdnussöl in einer großen Pfanne erhitzen und Brokkoli, Pak Choi und Knoblauch auf mittlerer Hitze anbraten, bis das Gemüse weich wird.",
+                "Pasta nach Packungsanleitung kochen. Dann mit eiskaltem Wasser abschrecken, damit sie nicht verkleben.",
+                "Zitrone halbieren und Saft auspressen.",
+                "Zitronensaft, Thai-Chilisauce, Sesamöl, Essig, Sojasauce, Ahornsirup und Chiliflocken zusammen verrühren.",
+                "Dressing zusammen mit Gemüse und Nudeln mischen.",
+                "Mit Sesam servieren.",
+                           
+            ],
+            "isVegan": true,
+            "durationInMinutes": 30,
+            "calories": 475,
+            "ingrediants": [
+                {
+                    "quantity": "1/3",
+                    "name": "Brokkoli"
+                   
+                },
+                {
+                    "quantity": "200 g",
+                    "name": "Pak Choi"
+                  
+                },
+                {
+                    "quantity": "1/2",
+                    "name": "Zitrone"
+                    
+                },
+                {
+                    "quantity": "10 g ",
+                    "name": "Sesamsaat"
+                   
+                },
+                {
+                    "quantity": "120 g",
+                    "name": "Buchweizen Nudeln"
+                  
+                },
+                {
+                    "quantity": "2 TL",
+                    "name": "Sesamöl, geröstet"
+                  
+                },
+                {
+                    "quantity": "1 EL",
+                    "name": "Reisessig"
+                  
+                },
+                {
+                    "quantity": "1 TL",
+                    "name": "Thai-Chilisauce (Sriracha)"
+                  
+                },
+                {
+                    "quantity": "2 EL",
+                    "name": "Erdnussöl"
+                  
+                },
+                {
+                    "quantity": "2 Zehe",
+                    "name": "Knoblauch"
+                  
+                },
+                {
+                    "quantity": "1 EL",
+                    "name": "Ahornsirup"
+                  
+                },
+                {
+                    "quantity": "2 EL",
+                    "name": "Sojasauce"
+                  
+                },
+                {
+                    "quantity": "1/4 TL",
+                    "name": "Chiliflocke"
+                  
+                }
+                
+                
+            ],
+            "cooksNote": "Do it with Love!",
+            "nutritions": [
+                {
+                    "unit": "",
+                    "name": "kcal",
+                    "value": "475",
+                    "percent": 7
+                },
+                {
+                    "unit": "g",
+                    "name": "Eiweiß",
+                    "value": "13",
+                    "percent": 16
+                },
+                {
+                    "unit": "g",
+                    "name": "Fett",
+                    "value": "23",
+                    "percent": 17
+                }
+            ]
+        }
+        
+        
+    ]
+}

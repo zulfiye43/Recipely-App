@@ -1,0 +1,83 @@
+{
+  "module": {
+    "version": "1.0",
+    "name": "Diät- und Ernährungsquiz",
+    "questions": 7,
+    "revision": "2021-11-06"
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "Welches dieser Vitamine kann der Körper selbst herstellen ?",
+      "answers": [
+        "Vitamin B6",
+        "Vitamin D",
+        "Vitamin K",
+        "Vitamin E"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "number": 2,
+      "question": "Aus welchen Lebensmitteln können wir Kohlenhydrate bekommen ?",
+      "answers": [
+        "Milchprodukte und Früchte",
+        "Vollkornbrot und Müsli",
+        "Haushaltszucker, stärkehaltiges Gemüse und Hülsenfrüchte",
+        "Alles das oben Genannte"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "number": 3,
+      "question": "Was hat mehr Kalorien ?",
+      "answers": [
+        "Ein einfacher Bagel mit Frischkäse",
+        "Eine Toasterwaffel mit Sirup"
+      ],
+      "correct_answer": 2
+    },
+    {
+      "number": 4,
+      "question": "Welche der folgenden Aussagen zu Wasser trifft NICHT zu ? ",
+      "answers": [
+        "Wasser trinken regt den Stoffwechsel an",
+        "85% des menschlichen Gehirngewebes besteht aus Wasser",
+        "Als Faustregel gilt, täglich 10-12 Gläser Wasser zu trinken",
+        "Wasser reduziert Nierensteine"
+      ],
+      "correct_answer": 3
+    },
+    {
+      "number": 5,
+      "question": "Laut der berühmten Ernährungspyramide des USDA benötigen wir täglich 2-3 Portionen von welcher Lebensmittelgruppe ?",
+      "answers": [
+        "Milch-, Käse- und Joghurtprodukte",
+        "Gemüse",
+        "Müsli, Brot, Reis oder Nudeln",
+        "Nur A & B"
+      ],
+      "correct_answer": 1
+    },
+    {
+      "number": 6,
+      "question": "Menschen mit einem Body-Mass-Index (BMI) von ________ oder mehr gelten als fettleibig",
+      "answers": [
+        "20",
+        "25",
+        "29",
+        "30"
+      ],
+      "correct_answer": 4
+    },
+    {
+      "number": 7,
+      "question": "Welche der folgenden Lebensmittel fallen laut USDA in die Kategorie „Getreide“?",
+      "answers": [
+        "Bohnen",
+        "Nudeln"
+      ],
+      "correct_answer": 2
+    }
+  ]
+}
